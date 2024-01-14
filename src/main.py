@@ -1,3 +1,3 @@
 #!/usr/bbin/python
 
-print('Hello, World!')
+print('Hello, Linux!')
